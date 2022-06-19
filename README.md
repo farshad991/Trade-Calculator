@@ -1,7 +1,7 @@
 # Trade-Calculator
 Trading Calculator for Persian Users (Farsi Language)
 
-Please install the fonts in the font folder or download from the link below before using the files:
+Please install the fonts in the font folder or download from the link before using the files:
 https://github.com/rastikerdar/vazirmatn
 
 
